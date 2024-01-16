@@ -10,7 +10,7 @@ A fluxbox style to complement the [Chicago95 gtk theme](https://github.com/grass
 
 2. Messy
 
-![style preview clean](./screenshots/mesy.png)
+![style preview messy](./screenshots/messy.png)
 
 ## Installation
 
