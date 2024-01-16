@@ -3,7 +3,7 @@
 - `.Xresources` goes in `~/`
 - `.ideskrc` goes in `~/`
 - Put the `idesktop` folder in `~/.config` and make sure you update the `Home.lnk` file to suit
-your needs.
+your needs. To add more icons to your desktop, add more `.lnk` files.
 - The png file is the wallpaper. Tile it with `feh --bg-tile 008080.png`
 - The `.sh` files should be put in your `$PATH`
 - `fonts.conf` should go in `~/.config/fontconfig`. Make the folder if you dont have one.
