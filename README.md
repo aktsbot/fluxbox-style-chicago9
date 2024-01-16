@@ -53,6 +53,7 @@ session.screen0.iconbar.iconTextPadding:        5
 session.screen0.iconbar.usePixmap:      true
 session.screen0.iconbar.iconWidth:      225
 
+session.screen0.workspaceNames: W1,W2,W3,W4,W5,
 
 session.screen0.toolbar.widthPercent:   100
 session.screen0.toolbar.tools:  workspacename, iconbar, systemtray, clock
@@ -82,6 +83,7 @@ window.font:                            Helvetica-9
 window.label.focus.font:                Helvetica-9:bold
 window.label.unfocus.font:              Helvetica-9:bold
 ```
+8. The system tray has [clipit](https://github.com/CristianHenzel/ClipIt), [volumeicon](https://github.com/Maato/volumeicon), nmapplet and [cbatticon](https://github.com/valr/cbatticon).
 
 Cheers!
 
