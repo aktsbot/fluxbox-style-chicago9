@@ -1,0 +1,11 @@
+table Icon
+  Caption: Home
+  ToolTip.Caption: Opens your home folder
+  Icon: /home/me/.icons/SE98/places/32/folder-home.png
+  X: 26
+  Y: 62
+  Width: 32
+  Height: 32
+  Command[0]: thunar /home/me
+end
+
